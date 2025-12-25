@@ -1,0 +1,27 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+/* Custom toggle switch styles */
+.toggle-checkbox:checked {
+    right: 0;
+    border-color: #4A90E2;
+}
+
+.toggle-checkbox:checked + .toggle-label {
+    background-color: #4A90E2;
+}
+
+.channel-card {
+    transition: all 0.3s ease-in-out;
+}
+
+.channel-card.on {
+    background-color: #3f3f46; /* zinc-700 */
+    box-shadow: 0 0 15px rgba(74, 144, 226, 0.5);
+    transform: translateY(-2px);
+}
+
+.hidden {
+    display: none;
+}
