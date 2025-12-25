@@ -3,7 +3,8 @@
 A web-based IoT dashboard for controlling smart home devices (lights, appliances, garage doors, etc.) in real-time. Built with **HTML/JS** and **Firebase Realtime Database**, featuring secure user authentication via **Google Sign-In**.
 
 ![Project Status](https://img.shields.io/badge/status-active-success)
-![License](https://img.shields.io/badge/license-MIT-blue)
+
+##link:-(https://github.com/Ankit1576734/smart_home_automation)
 
 ## ✨ Features
 
@@ -32,5 +33,5 @@ A web-based IoT dashboard for controlling smart home devices (lights, appliances
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-   cd your-repo-name
+   git clone [https://github.com/Ankit1576734/smart_home_automation.git](https://github.com/Ankit1576734/smart_home_automation.git)
+   cd smart_home_automation
