@@ -5,7 +5,7 @@ A web-based IoT dashboard for controlling smart home devices (lights, appliances
 ![Project Status](https://img.shields.io/badge/status-active-success)
 
 ## 🔗 Live Demo
-[View Live Dashboard](https://ankit1576734.github.io/smart_home_automation/)
+[View Live Dashboard](https://AnkittSaini.github.io/smart_home_automation/)
 
 ## 🔌 Hardware Integration (ESP32 + Relay Module)
 
